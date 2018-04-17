@@ -1,0 +1,51 @@
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe.config
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form1.resources
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Properties.Resources.resources
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csproj.GenerateResource.Cache
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ÖZGÜR YILDIRIM\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form2.resources
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe.config
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form1.resources
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form2.resources
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Properties.Resources.resources
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csproj.GenerateResource.Cache
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ozgur.yildirim\Desktop\mine\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe.config
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form1.resources
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form2.resources
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Properties.Resources.resources
+C:\Users\ozgur.yildirim\Desktop\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csproj.GenerateResource.Cache
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe.config
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form1.resources
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form2.resources
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Properties.Resources.resources
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mine2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csproj.GenerateResource.Cache
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe.config
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.exe
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\bin\Debug\MayınTarlasıProjeÖdevi.pdb
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form1.resources
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form2.resources
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Properties.Resources.resources
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.csproj.GenerateResource.Cache
+C:\Users\ÖZGÜR YILDIRIM\Desktop\Mayın2\MayınTarlasıProjeÖdevi\MayınTarlasıProjeÖdevi\obj\Debug\MayınTarlasıProjeÖdevi.Form3.resources
